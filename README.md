@@ -4,7 +4,7 @@
 
 ## ASR 2021 Paper
 
-# ![Page 1](images/ASR2021_1.png)
+![Page 1](images/ASR2021_1.png)
 ---
 ![Page 2](images/ASR2021_2.png)
 ---
