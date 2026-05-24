@@ -30,7 +30,7 @@
 ---
 ---
 <details>
-<summary>om</summary>
+<summary></summary>
 
 [Project PDF](https://drive.google.com/your-private-link)
 
