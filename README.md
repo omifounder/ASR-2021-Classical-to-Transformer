@@ -2,7 +2,11 @@
 - **Problem** - Description of innovation in ASR/NLP domain (2024)
 - **Research Questions** - Description of innovation in ASR/NLP domain (2024)
 
-<iframe src="ASR2021.pdf" width="100%" height="600px" style="border: none;"></iframe>
+## ASR 2021 Paper
+
+![Page 1](ASR2021-1.png)
+![Page 2](ASR2021-2.png)
+![Page 3](ASR2021-3.png)
 
 ---
 <details>
