@@ -5,8 +5,6 @@
 <details>
 <summary>om</summary>
 
-<iframe src="ASR2021.pdf" width="100%" height="600px" style="border: none;"></iframe>
-
 [Project PDF](https://drive.google.com/your-private-link)
 
 </details>
